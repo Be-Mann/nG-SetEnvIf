@@ -1,11 +1,11 @@
 <div align="center">
 
 # nG-SetEnvIf
-![](https://img.shields.io/badge/nginx-1.27.3-009639?logo=nginx&logoColor=white)
-![](https://img.shields.io/badge/Apache-2.4.63-D22128?logo=Apache&logoColor=white)
+[![](https://custom-icon-badges.demolab.com/badge/freenginx-1.29.2-009639?logo=freenginx&logoColor=white)](https://freenginx.org/en/)
+![](https://img.shields.io/badge/Apache-2.4.65-D22128?logo=Apache&logoColor=white)
 [![ReDoS detector](https://github.com/t18d/nG-SetEnvIf/actions/workflows/redos-detector.yml/badge.svg?branch=staging)](https://github.com/t18d/nG-SetEnvIf/actions/workflows/redos-detector.yml)
 &nbsp;  
-[![](https://custom-icon-badges.demolab.com/badge/Perishable%20Press-8G%20v1.4-dd6d0b.svg?logo=perishable-press)](https://perishablepress.com/8g-firewall/)
+[![](https://custom-icon-badges.demolab.com/badge/Perishable%20Press-8G%20v1.5-dd6d0b.svg?logo=perishable-press)](https://perishablepress.com/8g-firewall/)
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
 
 &nbsp;  
